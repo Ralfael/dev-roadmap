@@ -22,4 +22,4 @@ Skill Charts
 #### ECMA
 ### Databases
 ### CLI
-### Typescrit
+### Typescript

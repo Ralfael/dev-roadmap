@@ -23,3 +23,4 @@ Skill Charts
 ### Databases
 ### CLI
 ### Typescript
+### IA

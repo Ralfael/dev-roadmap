@@ -24,3 +24,5 @@ Skill Charts
 ### CLI
 ### Typescript
 ### IA
+
+### Simulados

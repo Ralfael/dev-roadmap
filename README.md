@@ -26,4 +26,4 @@ Skill Charts
 ### IA
 
 ### Simulados
-### async await
+### fix

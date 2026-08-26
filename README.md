@@ -25,7 +25,7 @@ Skill Charts
 ### Typescript
 ### IA
 
-### Simulados
+### Simulates
 ### AWS LAB
 ### fix
 

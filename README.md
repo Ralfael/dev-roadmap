@@ -24,6 +24,7 @@ Skill Charts
 ### CLI
 ### Typescript
 ### IA
+### Bucket / AND S3
 
 ### Simulates
 ### AWS LAB

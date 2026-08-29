@@ -30,4 +30,4 @@ Skill Charts
 ### AWS LAB
 ### S3
 ### EC2
-
+### Elastic Beanstalk

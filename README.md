@@ -25,6 +25,7 @@ Skill Charts
 ### Typescript
 ### IA
 ### Bucket / AND S3
+### Aurora
 
 ### Simulates
 ### AWS LAB

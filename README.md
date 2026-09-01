@@ -32,3 +32,4 @@ Skill Charts
 ### S3
 ### EC2
 ### Elastic Beanstalk
+### S3 Glacier

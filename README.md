@@ -44,3 +44,4 @@ Skill Charts
 ### chatbot
 ### n8n
 ### soft skills
+### hard skills 

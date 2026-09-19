@@ -39,6 +39,7 @@ Skill Charts
 ### CLI
 ### FlowData
 ### overengineering
+### sqlite android
 ### grid
 ### flexbox
 ### saas

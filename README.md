@@ -40,6 +40,7 @@ Skill Charts
 ### FlowData
 ### overengineering
 ### sqlite android
+### bribe
 ### grid
 ### flexbox
 ### saas

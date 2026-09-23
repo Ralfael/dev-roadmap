@@ -46,5 +46,6 @@ Skill Charts
 ### saas
 ### chatbot
 ### n8n
+### QA
 ### soft skills
 ### hard skills 

@@ -33,6 +33,7 @@ Skill Charts
 ### EC2
 ### Elastic Beanstalk
 ### S3 Glacier
+### S3 DEEP ARCHIVE
 ### IAM
 ### Route 53
 ### Atbena

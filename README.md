@@ -7,6 +7,7 @@ Skill Charts
 ### Cybersec 
 
 ## ES5
+### ES6
 ### ReactNative 
 
 ### Cloud Computing

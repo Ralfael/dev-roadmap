@@ -8,6 +8,7 @@ Skill Charts
 
 ### ES5
 ### ES6
+### intro aws
 ### ReactNative 
 
 ### Cloud Computing

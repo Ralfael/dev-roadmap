@@ -14,6 +14,7 @@ Skill Charts
 ### Cloud Computing
 
 ### Flutter
+### Firebase
 
 ### Java
 ### daytime functions

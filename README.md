@@ -22,7 +22,7 @@ Skill Charts
 ### SWIFT
 
 #### Design Systems
-### Portifolio Increment
+### Portfolio Increment
 #### ECMA
 ### Databases
 ### CLI

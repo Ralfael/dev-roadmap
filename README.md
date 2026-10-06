@@ -15,6 +15,7 @@ Skill Charts
 
 ### Flutter
 ### Firebase
+### firestore
 ### AWS Framework
 ### Java
 ### daytime functions

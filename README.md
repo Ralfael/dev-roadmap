@@ -19,6 +19,7 @@ Skill Charts
 ### AWS Framework
 ### Java
 ### daytime functions
+### spinner
 
 ### SWIFT
 

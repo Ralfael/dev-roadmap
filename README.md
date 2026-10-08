@@ -33,6 +33,7 @@ Skill Charts
 ### Bucket / AND S3
 ### Aurora
 ### Shield 
+### CloudFront
 ### Simulates
 ### AWS LAB
 ### S3

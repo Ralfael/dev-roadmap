@@ -32,6 +32,7 @@ Skill Charts
 ### IA
 ### Bucket / AND S3
 ### Aurora
+### EBS
 ### Shield 
 ### CloudFront
 ### Simulates

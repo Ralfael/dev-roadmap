@@ -6,6 +6,7 @@ Skill Charts
 ### Multithreads
 ### Cybersec 
 ### Compose
+
 ### ES5
 ### ES6
 ### intro aws
@@ -37,6 +38,7 @@ Skill Charts
 ### CLI
 ### Shield 
 ### CloudFront
+### Cloudtrail
 ### Simulates
 ### AWS LAB
 ### S3

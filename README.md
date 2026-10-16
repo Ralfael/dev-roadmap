@@ -23,6 +23,7 @@ Skill Charts
 ### spinner
 ### IAM ROLES
 ### auth with JWT 
+### guard duty
 ### SWIFT
 ### load balance
 #### Design Systems

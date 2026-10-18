@@ -34,6 +34,7 @@ Skill Charts
 ### Typescript
 ### IA
 ### Cloudtrail
+### dartpedia
 ### Bucket / AND S3
 ### Aurora
 ### EBS

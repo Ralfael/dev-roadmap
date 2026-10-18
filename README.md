@@ -33,6 +33,7 @@ Skill Charts
 ### CLI
 ### Typescript
 ### IA
+### Cloudtrail
 ### Bucket / AND S3
 ### Aurora
 ### EBS

@@ -7,6 +7,7 @@ Skill Charts
 ### Cybersec 
 ### Compose
 
+### EBS
 ### ES5
 ### ES6
 ### intro aws

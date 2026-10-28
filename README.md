@@ -12,6 +12,7 @@ Skill Charts
 ### realtime database
 ### api curl check
 ### n8n
+### flutter docs
 ### swift playground
 ### EBS
 ### ES5

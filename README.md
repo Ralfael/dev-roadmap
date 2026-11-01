@@ -5,6 +5,7 @@ Skill Charts
 ### Android
 ### Multithreads
 ### Cybersec 
+### pandas
 ### Compose
 ### cast
 ### scaffold

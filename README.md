@@ -8,6 +8,7 @@ Skill Charts
 ### pandas
 ### Compose
 ### cast
+### render
 ### scaffold
 ### Cloud firestore
 ### realtime database

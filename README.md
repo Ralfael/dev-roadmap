@@ -11,6 +11,7 @@ Skill Charts
 ### cast
 ### render
 ### kera
+### software engineering
 ### llmn
 ### scaffold
 ### Cloud firestore

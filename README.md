@@ -8,6 +8,8 @@ Skill Charts
 ### pandas
 ### yarn
 ### Compose
+
+### google collab
 ### cast
 ### render
 ### kera

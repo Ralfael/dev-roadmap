@@ -9,6 +9,7 @@ Skill Charts
 ### yarn
 ### Compose
 
+### EOS
 ### dartpedia
 ### google collab
 ### cast

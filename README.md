@@ -9,7 +9,7 @@ Skill Charts
 ### yarn
 ### Compose
 ### data structure
-
+### obs
 ### AI Builder
 ### EOS
 ### dartpedia

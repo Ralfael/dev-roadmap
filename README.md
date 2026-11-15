@@ -8,6 +8,7 @@ Skill Charts
 ### pandas
 ### yarn
 ### Compose
+### IoT devices
 ### data structure
 ### obs
 ### AI Builder

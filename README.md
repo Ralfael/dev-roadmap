@@ -33,6 +33,7 @@ Skill Charts
 ### EBS
 ### ES5
 ### ES6
+### ai builder
 ### intro aws
 ### ReactNative 
 ### Docker

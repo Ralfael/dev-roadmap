@@ -30,6 +30,7 @@ Skill Charts
 ### flutter docs
 ### swift playground
 ### tensor flow
+### cloudops
 ### EBS
 ### ES5
 ### ES6

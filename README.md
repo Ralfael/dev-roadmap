@@ -16,6 +16,7 @@ Skill Charts
 ### EOS
 ### aws builder
 ### audiction
+### agentdb
 ### dartpedia
 ### google collab
 ### cast
